@@ -1,8 +1,8 @@
 {
   "name": "my-app-1",
   "version": "0.1.0",
-  "homepage": "http://Muhannad1989.github.io/test-deploy",
   "private": true,
+  "homepage": "https://Muhannad1989.github.io/test-deploy",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
