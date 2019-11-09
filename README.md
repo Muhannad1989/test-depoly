@@ -15,7 +15,7 @@ https://muhannad1989.github.io/test-deploy/
 
 notice: 
 
-*It workd locally fine, however it dosn't work on github after i've was published (Sometimes fetching data dosn't work). 
+*It works locally fine, however it dosn't work on github after It was published (Sometimes "fetching data" dosn't work). 
 
 
 
